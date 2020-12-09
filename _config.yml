@@ -16,6 +16,7 @@ author: Zeid Hamadeh
 navbar-links:
   Projects: 
     - DNA repair in Cancer : "https://zhamadeh.github.io/2020-12-09-firstPost/"
+    - COVID19 Exponential Growth: "https://zhamadeh.shinyapps.io/covid_exponentialgrowth/"
     - Strand-seq: "https://www.nature.com/articles/nprot.2017.029"
   Papers: 
     - RECQL5 helicase : "https://www.frontiersin.org/articles/10.3389/fcell.2020.00324/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cell_and_Developmental_Biology&id=540154"
