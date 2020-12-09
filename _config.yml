@@ -6,19 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: Zeids Website
+title: Zeid Hamadeh
 
 # Your name to show in the footer
-author: Some Person
+author: Zeid Hamadeh
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Projects: "aboutme"
+  Papers: "papers"
+  Online:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About me: "https://deanattali.com"
 
 # --- Logo --- #
 
