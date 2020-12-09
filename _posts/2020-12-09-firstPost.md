@@ -5,6 +5,7 @@ subtitle: Why is DNA repair so important?
 gh-repo: zhamadeh/zhamadeh.github.io
 gh-badge: [star, fork, follow]
 tags: [Cancer,DNA repair]
+thumbnail-img: /assets/img/thumb.png
 comments: true
 ---
 
