@@ -5,10 +5,7 @@ subtitle:
 ---
 
 My name is Zeid Hamadeh. I'm a Palestinian-Canadian cancer researcher and amateur bioinformatician trying to answer meaningful biological questions about health and disease using memes and redbull. 
-<figure>
 <img align="right" src="/assets/img/western1.png" width="30%">![]("https://github.com/zhamadeh/zhamadeh.github.io/blob/master/assets/img/western1.png")
-<figcaption>Caption goes here</figcaption>
-</figure>
 
 Before I was born my family was fleeing our homeland in the Middle-East as refugees before immigrating to Canada and having me in Ottawa, Ontario. I grew up all across southern Ontario cultivating my craft as a professional volleyball athlete in hopes of gettting scouted by univerrsities across North America. I had some interest in American schools but ultimately decided to accept an offer to the University of Southern Ontario in quaint London, ON as a interdisciplinary medical science student and varsity volleyball player. I lived off Spoke bagels and King Richie's pizza the whole time (if you're familiar). When I finally completed my last undergraduate exam I packed up my things (since my lease was over) and couch-crashed for "a couple days max I promise". Three weeks later, I got in my tiny 2009 Pontiac Wave and drove across the country in 12 days to start my Master's in Genome Science and Technology (GSAT) at UBC in the summer of 2018, seeing and meeting a few friends along the way. 
 
