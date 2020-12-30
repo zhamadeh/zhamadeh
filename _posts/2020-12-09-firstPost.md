@@ -1,7 +1,7 @@
 ---
 layout: post
-title: DNA Repair in Cancer
-subtitle: Why is DNA repair so important?
+title: New Ways Of Thinking About Cancer
+subtitle: Why DNA repair is so important
 gh-repo: zhamadeh/zhamadeh.github.io
 gh-badge: [star, fork, follow]
 tags: [Cancer,DNA repair]
