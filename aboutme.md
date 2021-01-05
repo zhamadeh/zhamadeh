@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: New website, who dis?
 ---
-<img align="right" src="/assets/img/egg.jpg" width="43%" style="margin:15px 15px;border-radius: 8px">![]("https://github.com/zhamadeh/zhamadeh.github.io/blob/master/assets/img/egg.jpg")
+<img src="/assets/img/egg.jpg" style="margin:15px 15px;border-radius: 8px">![]("https://github.com/zhamadeh/zhamadeh.github.io/blob/master/assets/img/egg.jpg")
 
 
 My name is Zeid Hamadeh. I'm a Palestinian-Canadian cancer researcher and amateur bioinformatician trying to answer meaningful biological questions about health and disease using memes and redbull. 
