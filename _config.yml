@@ -22,7 +22,7 @@ navbar-links:
     - RECQL5 helicase : "https://www.frontiersin.org/articles/10.3389/fcell.2020.00324/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cell_and_Developmental_Biology&id=540154"
     - BLM helicase: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773480/"
     - Strand-seq: "https://www.nature.com/articles/nprot.2017.029"
-  Online:
+  Online: "online"
     - Github: "https://github.com/zhamadeh"
     - Youtube: "https://www.youtube.com/channel/UCiC3weSN6pT_GLxJKHx7HeA?view_as=subscriber"
     - Twitter: "https://twitter.com/hamadeh_zeid"
